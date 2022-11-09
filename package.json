@@ -2,7 +2,7 @@
     "name": "vscode-generic-key-value-syntax-highlight",
     "displayName": "Generic Key-Value Syntax Highlight",
     "description": "Turns the first word in a line into a keyword or a #comment",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "icetbr",
     "license": "MIT",
     "engines": {

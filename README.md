@@ -1,13 +1,13 @@
 # [VSCode Generic Key-Value Syntax Highlight][1]
 Turns the first word in a line into a `keyword` or a `#comment`. Also recognizes `$variables`.
 
-![Nginx sample](nginxSample.png)
+![Nginx sample](static/nginxSample.png)
 
 
 ## Usage
 - automatic for `.conf` files
 - override your current syntax highlight by choosing `Key Value` when changing file association\
-    ![Override Syntax Highlight](./fileAssociation.png)
+    ![Override Syntax Highlight](./static/fileAssociation.png)
 - make it permanent in `settings.json`
 
   ```json
